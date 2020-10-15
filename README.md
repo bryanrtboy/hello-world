@@ -6,3 +6,5 @@ Hey, this is my first Git! In this, I will be:
 - Coding!
 
 This is the line I wrote in Atom.
+
+Hello
