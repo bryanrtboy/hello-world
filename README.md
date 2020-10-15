@@ -7,4 +7,4 @@ Hey, this is my first Git! In this, I will be:
 
 This is the line I wrote in Atom.
 
-Hello
+Hello Jacob!
